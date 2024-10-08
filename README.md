@@ -1,8 +1,8 @@
 <h3 align="center"> <samp> Ian Chen / Bang-Shien Chen </samp> </h3>
 <p align="center">
-  <samp> Hi! I am currently a master student in the Department of Mathematics, National Taiwan Normal University. My research interest is mainly in optimization and robotics, and I write blogs about things that I frequently use. Feel free to check it out, and I hope it is helpful for you! </samp>
+  <samp> Hi! I am currently a master student at the Department of Mathematics, National Taiwan Normal University. My research interests are mainly in optimization and robotics, and I write blogs about tools and concepts I frequently use. Feel free to check them out, and I hope you find them helpful! </samp>
   <br> 
-  <p align="center"> <samp> <a href="https://doggydoggy0101.github.io/home/">Homepage</a> </samp> </p>
+  <p align="center"> <samp> <a href="https://dgbshien.com/">Homepage</a> </samp> </p>
 </p>
 
 <h3 align="center"> <samp> Languages </samp> </h3>
